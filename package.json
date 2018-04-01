@@ -1,0 +1,39 @@
+{
+  "name": "strikeln-node",
+  "version": "0.0.1",
+  "description": "Strike SDK Nodejs Lightning Network Bitcoin for Testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4N1S/strikeLN-node.git"
+  },
+  "keywords": [
+    "Lightning network",
+    "wrapper",
+    "nodejs",
+    "api",
+    "bitcoin",
+    "ln",
+    "ACINQ",
+    "strike"
+  ],
+  "author": "Anis Haboubi",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "1.0.1",
+    "https": "1.0.0",
+    "underscore": "1.8.3",
+    "urlencode": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/4N1S/strikeLN-node/issues"
+  },
+  "homepage": "https://github.com/4N1S/strikeLN-node#readme",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {}
+}

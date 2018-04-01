@@ -12,12 +12,12 @@ npm install strikeLN-node
 ```
 
 ```javasctipt
-const api_key ="your_api_key";
-const client = new strikeLN(api_key);```
+const strikeLN = require('yiimp-node');
+```
 
 ```javasctipt
-
-var clientLN = new strikeLN();
+const api_key ="your_api_key";
+const client = new strikeLN(api_key);
 
 ```
 
