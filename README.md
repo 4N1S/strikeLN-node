@@ -12,7 +12,7 @@ npm install strikeLN-node
 ```
 
 ```javasctipt
-const strikeLN = require('yiimp-node');
+const strikeLN = require('strikeLN-node');
 ```
 
 ```javasctipt
